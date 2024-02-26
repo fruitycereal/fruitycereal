@@ -97,41 +97,30 @@
 
 ###
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f0f0f0;
-    }
+name: Generate Datas
 
-    .snake {
-      width: 20px;
-      height: 20px;
-      background-color: #3498db;
-      border-radius: 50%;
-      animation: moveSnake 2s linear infinite;
-    }
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
-    @keyframes moveSnake {
-      0%, 100% {
-        transform: translateX(0);
-      }
-      50% {
-        transform: translateX(200px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="snake"></div>
-</body>
-</html>
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: {{fruitycereal}}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
