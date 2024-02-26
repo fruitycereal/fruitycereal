@@ -93,6 +93,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fruitycereal/fruitycereal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fruitycereal/fruitycereal/output/snake.svg" alt="Snake animation" />
 
 ###
