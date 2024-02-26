@@ -96,3 +96,6 @@
 <img src="https://raw.githubusercontent.com/fruitycereal/fruitycereal/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">erm I think my snake animation from above failed a bit ;-;</p>
+<p align="left">ill it there, hopefully it works one day lol</p>
