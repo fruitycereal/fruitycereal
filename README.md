@@ -96,3 +96,42 @@
 <img src="https://raw.githubusercontent.com/fruitycereal/fruitycereal/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .snake {
+      width: 20px;
+      height: 20px;
+      background-color: #3498db;
+      border-radius: 50%;
+      animation: moveSnake 2s linear infinite;
+    }
+
+    @keyframes moveSnake {
+      0%, 100% {
+        transform: translateX(0);
+      }
+      50% {
+        transform: translateX(200px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="snake"></div>
+</body>
+</html>
+
