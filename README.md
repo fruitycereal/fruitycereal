@@ -89,7 +89,7 @@
 
 ###
 
-<p align="left">• Aespa<br>• Newjeans<br>• TV girl<br>• Melanie Martinez<br>• Deftones<br>• Laufey<br>• Beabadoobee<br>• Chase Atlantic<br>• Pink pantheress<br><br>and so much more</p>
+<p align="left">• Aespa<br>• Newjeans<br>• Slipknot<br>• Korn<br>• Type O Negative<br>and so much more</p>
 
 ###
 
