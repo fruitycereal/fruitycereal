@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">☆ Hello ☆<br>My name is Nunnaphat Phetthammathiti<br>Nickname Holly ✩<br>I'm from Thailand and just a student :))</h2>
+<h2 align="center">⛧°。 ⋆༺♱༻⋆。 °⛧<br>♱ Hello, I'm Holly ♱<br>⋆༺𓆩☠︎︎𓆪༻⋆</h2>
 
 ###
 
@@ -14,17 +14,11 @@
 
 ###
 
-<h4 align="left">I got into coding because I realized how freely we are able to code, and I can just put all my ideas into programming</h4>
+<h2 align="left">⋆♱✮♱⋆ About me⋆♱✮♱⋆</h2>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/9b/e9/2d/9be92dae9203cd1640f28da39bcd1531.png"  />
-</div>
-
-###
-
-<p align="left">I also really like data analysis because of the graphs but sometimes the Math is quite troublesome lol</p>
+<p align="left">•  I mostly use python, and CSS, HTML, java, for web developing<br>• I want to be a software engineer (or developer)<br>• Currently studying ce major<br>• I'm from Thailand</p>
 
 ###
 
@@ -49,15 +43,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="33" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="33" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="33" alt="php logo"  />
 </div>
 
 ###
 
-<h4 align="left">I mostly code using python but I am currently also learning CSS, HTML, java, for web developing</h4>
+<h2 align="left">⋆♱✮♱⋆ Fun facts ⋆♱✮♱⋆</h2>
 
 ###
 
-<div align="left">
+<p align="left">• I am an awesome drummer and in a music band<br>• Death note saves my life<br>• I started coding when I was in 7th Grade but then took a huge 2 year break<br>• I love sweets (especially chocolates, they're so yum)<br>•  I mostly listen to kpop, metal, rock</p>
+
+###
+
+<div align="center">
   <a href="https://www.youtube.com/@holly_empire" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
   </a>
@@ -71,30 +73,14 @@
 
 ###
 
-<h3 align="left">Some fun facts:</h3>
+<h2 align="left">⋆♱✮♱⋆ Favorite artists/bands ⋆♱✮♱⋆</h2>
 
 ###
 
-<p align="left">• I am an awesome drummer<br>• I was in a band<br>• I love death note<br>• I started coding when I was in 7th Grade but then took a huge 2 year break :( (still remember my stuff though lol)<br>• I love sweets (especially chocolates, they're so yum)<br>•  I mostly listen to kpop, rock, pop<br>• I want to be a software engineer</p>
-
-###
-
-<div align="center">
-  <img height="256" src="https://i.pinimg.com/originals/9a/25/59/9a25593b242cf39695e7de2f877ed630.jpg"  />
-</div>
-
-###
-
-<h3 align="left">Fav artists/bands</h3>
-
-###
-
-<p align="left">• Aespa<br>• Newjeans<br>• Slipknot<br>• Korn<br>• Type O Negative<br>and so much more</p>
+<p align="left">• Aespa<br>• Newjeans<br>• Slipknot<br>• Korn<br>• Deftones<br>and so much more</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/fruitycereal/fruitycereal/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">erm I think my snake animation from above failed a bit ;-;<br> I'll leave it there, hopefully it'll work one day</p>
